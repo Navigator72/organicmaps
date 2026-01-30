@@ -1,7 +1,3 @@
-
-
-/********** Types **********/
-
 "type.addr_interpolation" = "Adresas / blokas";
 "type.addr_interpolation.even" = "Adresas / blokas";
 "type.addr_interpolation.odd" = "Adresas / blokas";

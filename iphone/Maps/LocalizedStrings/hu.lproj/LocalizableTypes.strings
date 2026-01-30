@@ -1,7 +1,3 @@
-
-
-/********** Types **********/
-
 "type.addr_interpolation" = "Cím/háztömb";
 "type.addr_interpolation.even" = "Cím/háztömb";
 "type.addr_interpolation.odd" = "Cím/háztömb";

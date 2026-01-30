@@ -1,7 +1,3 @@
-
-
-/********** Types **********/
-
 "type.addr_interpolation" = "Adress / kvarter";
 "type.addr_interpolation.even" = "Adress / kvarter";
 "type.addr_interpolation.odd" = "Adress / kvarter";

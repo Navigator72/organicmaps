@@ -1,7 +1,3 @@
-
-
-/********** Types **********/
-
 "type.addr_interpolation" = "Heimilisfang/Blokk";
 "type.addr_interpolation.even" = "Heimilisfang/Blokk";
 "type.addr_interpolation.odd" = "Heimilisfang/Blokk";
